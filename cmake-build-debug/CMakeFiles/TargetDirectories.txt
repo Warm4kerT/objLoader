@@ -1,0 +1,3 @@
+/home/warm4kert/Documents/CG/objLoader/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/warm4kert/Documents/CG/objLoader/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/warm4kert/Documents/CG/objLoader/cmake-build-debug/CMakeFiles/objLoader.dir
